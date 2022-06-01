@@ -1,0 +1,136 @@
+{
+  "main": {
+    "name": "Milo Thiesen",
+    "occupation": "Expert media manager & integrations developer specializing in media workflow automation and data driven, low-code integrations",
+    "description": "I dream in workflow diagrams",
+    "image": "profilepic.jpg",
+    "bio": "Hey there! I'm Milo (they/them). Currently, I am the Senior Media Asset Manager in the Office of Knowledge and Legacy at Lincoln Center for the Performing Arts, Inc. For 15 years I have specialized in media archiving and digital asset management for photography, video, interactives, and animation in cultural heritage and higher education. Prior to that, I was the Lead Technical Analyst for Digital Asset Management at The Metropolitan Museum of Art for five years. I've also held positions in digital asset management at the American Museum of Natural History and the University of Massachusetts Amherst. I really enjoy knowledge sharing and sometimes I guest lecture at Pratt Institute, New York University, and the Metropolitan New York Library Council.",
+    "contactmessage": "Get in touch with me!",
+    "email": "milothiesen@gmail.com",
+    "phone": "+1 415 577 9859",
+    "address": {
+      "street": "222 Middle Haddam Road",
+      "city": "Portland",
+      "state": "Connecticuit",
+      "zip": "06480"
+    },
+    "website": "https://milothiesen.com",
+    "resumedownload": "https://docs.google.com/document/d/1LNvB-FvnSIXX6ZyIvL5Kx9PjV_5v6pkpdoriXqulr4o/edit?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/milothiesen/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/milodisgrace/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/milothiesen",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "work": [
+      {
+        "company": "Lincoln Center for the Performing Arts",
+        "title": "Senior Media Asset Manager",
+        "years": "2021 - Present",
+        "description": ""
+      },
+      {
+        "company": "The Metropolitan Museum of Art",
+        "title": "Senior Technical Analyst - Digital Asset Management",
+        "years": "2016 - 2021",
+        "description": ""
+      },
+      {
+        "company": "The American Museum of Natural History",
+        "title": "Media Archivist",
+        "years": "2016 - 2021",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Integrations",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ],
+    "education": [
+      {
+        "school": "The Firehose Project",
+        "degree": "Coding Bootcamp",
+        "graduated": "2017",
+        "description": "Javascript, Ruby, React, algorithms"
+      },
+      {
+        "school": "Pacific Northwest College of Art",
+        "degree": "Bachelor's of Fine Art, Photography & Video Installation",
+        "graduated": "2008",
+        "description": "Focused on digital & analog photography, studio lighting, and print processes. Strong focus in media management."
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Spotify Clone (React JS)",
+        "category": "music",
+        "image": "spotify.png",
+        "url": "https://spotify-clone-d9825.web.app/#"
+      },
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "movies",
+        "image": "netflix.png",
+        "url": "https://metflix-55571.web.app/"
+      },
+      {
+        "title": "Hulu Clone (React JS)",
+        "category": "movies",
+        "image": "hulu.png",
+        "url": "https://hulu-clone-2-new-8e1n0vdb2-milothiesen.vercel.app/"
+      },
+      {
+        "title": "Slack Clone (React JS)",
+        "category": "comm",
+        "image": "slack.png",
+        "url": "https://slack-clone-papa.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
