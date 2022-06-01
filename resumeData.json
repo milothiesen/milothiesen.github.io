@@ -41,19 +41,19 @@
         "company": "Lincoln Center for the Performing Arts",
         "title": "Senior Media Asset Manager",
         "years": "2021 - Present",
-        "description": ""
+        "description": "Implemented Orange Logic DAM in less than one year. Migration of archival database InMagic Presto to ArchivesSpace. Evaluation of over 100TB of data including the 40 year broadcast history of Live From Lincoln Center. Integration between Monday.com, ArtsVision, and the DAM using Workato and Pipedream.com"
       },
       {
         "company": "The Metropolitan Museum of Art",
         "title": "Senior Technical Analyst - Digital Asset Management",
         "years": "2016 - 2021",
-        "description": ""
+        "description": "Product owner and technical lead for the museum’s enterprise digital asset management (DAM) system, NetX (1.7 million assets, 10 servers, 2,000 users)."
       },
       {
         "company": "The American Museum of Natural History",
         "title": "Media Archivist",
         "years": "2016 - 2021",
-        "description": ""
+        "description": "Archived and documented complex media interactives. Archived and migrated data from a large number of external hard drives into a departmental DAM for video producers working on the award winning series, Shelf Life. Worked with the research library to develop EAD records and metadata crosswalks for complex scientific data across science divisions."
       }
     ],
     "skills": [
