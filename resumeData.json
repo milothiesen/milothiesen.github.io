@@ -46,13 +46,13 @@
       {
         "company": "The Metropolitan Museum of Art",
         "title": "Senior Technical Analyst - Digital Asset Management",
-        "years": "2016 - 2021",
+        "years": "2017 - 2021",
         "description": "Product owner and technical lead for the museum’s enterprise digital asset management (DAM) system, NetX (1.7 million assets, 10 servers, 2,000 users)."
       },
       {
         "company": "The American Museum of Natural History",
         "title": "Media Archivist",
-        "years": "2016 - 2021",
+        "years": "2016 - 2017",
         "description": "Archived and documented complex media interactives. Archived and migrated data from a large number of external hard drives into a departmental DAM for video producers working on the award winning series, Shelf Life. Worked with the research library to develop EAD records and metadata crosswalks for complex scientific data across science divisions."
       }
     ],
@@ -121,15 +121,19 @@
       }
     ]
   },
-  "testimonials": {
-    "testimonials": [
+  "stack": {
+    "stack": [
       {
-        "text": "Your chaos is my job security",
-        "user": ""
+        "title": "Airtable",
+        "category": "",
+        "image": "",
+        "url": "https://spotify-clone-d9825.web.app/#"
       },
       {
-        "text": "",
-        "user": ""
+        "title": "Airtable",
+        "category": "",
+        "image": "",
+        "url": "https://spotify-clone-d9825.web.app/#"
       }
     ]
   }
