@@ -8,11 +8,6 @@
     "contactmessage": "Get in touch with me!",
     "email": "milothiesen@gmail.com",
     "phone": "+1 415 577 9859",
-    "address": {
-      "city": "Portland",
-      "state": "Connecticuit",
-      "zip": "06480"
-    },
     "website": "https://milothiesen.com",
     "resumedownload": "https://docs.google.com/document/d/1LNvB-FvnSIXX6ZyIvL5Kx9PjV_5v6pkpdoriXqulr4o/edit?usp=sharing",
     "social": [
@@ -36,6 +31,12 @@
   "resume": {
     "skillmessage": "My Programming Language Proficiency",
     "work": [
+       {
+        "company": "Airbnb",
+        "title": "Creative Media Traffic Manager",
+        "years": "July 2022 - Present",
+        "description": "Oversee photography deliverables for broadcast advertising campaigns, define and maintain metadata requirements & file format specifications, manage all traffic related communications between producers and the creative marketing teams. Responsible for creation and maintainence of low code integrations between machine learning taxonomies and marketing tools related to rights & property clearances. Develop custom interfaces based on various datasources including Airtable and Apache Superset. Completed the successful delivery, cataloging, classification, and documentation of all related automated processes of over 1.5 million images in less than six months."
+      },
       {
         "company": "Lincoln Center for the Performing Arts",
         "title": "Senior Media Asset Manager",
